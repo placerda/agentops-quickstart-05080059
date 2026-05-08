@@ -1,0 +1,3 @@
+{"input": "Answer with exactly this sentence: Paris is the capital of France.", "expected": "Paris is the capital of France."}
+{"input": "Answer with exactly this sentence: Mars is known as the Red Planet.", "expected": "Mars is known as the Red Planet."}
+{"input": "Answer with exactly this sentence: The chemical formula for water is H2O.", "expected": "The chemical formula for water is H2O."}
